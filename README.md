@@ -14,7 +14,9 @@ The Personal Assistant app is a project designed by Skillcrush and is part of th
 
 # Launch
 
-To interact with the Personal Assistant app use this replit link below.
+To interact with the Personal Assistant app right click on the link below to open in a new tab.
+
+Then click on the green Run button and follow the prompts. 
 
 https://replit.com/@jsteffes1/personal-assistant
 
